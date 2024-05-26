@@ -1,3 +1,3 @@
-# Brians-Services
+# Brians Services
 
 A microservices project.

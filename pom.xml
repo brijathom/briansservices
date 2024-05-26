@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.brianthomas</groupId>
-  <artifactId>brians-services</artifactId>
+  <artifactId>briansservices</artifactId>
   <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
 
@@ -13,8 +13,8 @@
     <module>customer</module>
   </modules>
 
-  <name>brians-services</name>
-  <url>https://www.brians-services.com</url>
+  <name>briansservices</name>
+  <url>https://www.briansservices.com</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
