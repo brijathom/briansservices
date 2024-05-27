@@ -1,5 +1,6 @@
 package com.brianthomas.fraud;
 
+import com.brianthomas.clients.fraud.FraudCheckResponse;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.*;
