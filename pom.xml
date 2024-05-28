@@ -15,6 +15,7 @@
     <module>eureka-server</module>
       <module>clients</module>
       <module>notification</module>
+      <module>apigw</module>
   </modules>
 
   <name>briansservices</name>
@@ -60,10 +61,6 @@
     <dependency>
       <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-starter-openfeign</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-starter-sleuth</artifactId>
     </dependency>
   </dependencies>
 
