@@ -1,0 +1,8 @@
+com\brianthomas\notification\NotificationConfig.class
+com\brianthomas\notification\NotificationApplication.class
+com\brianthomas\notification\NotificationService.class
+com\brianthomas\notification\Notification$NotificationBuilder.class
+com\brianthomas\notification\Notification.class
+com\brianthomas\notification\NotificationController.class
+com\brianthomas\notification\rabbitmq\NotificationConsumer.class
+com\brianthomas\notification\NotificationRepository.class
