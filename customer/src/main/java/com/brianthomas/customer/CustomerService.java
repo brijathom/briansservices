@@ -3,6 +3,7 @@ package com.brianthomas.customer;
 import com.brianthomas.amqp.RabbitMQMessageProducer;
 import com.brianthomas.clients.fraud.FraudCheckResponse;
 import com.brianthomas.clients.fraud.FraudClient;
+import com.brianthomas.clients.notification.NotificationClient;
 import com.brianthomas.clients.notification.NotificationRequest;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
