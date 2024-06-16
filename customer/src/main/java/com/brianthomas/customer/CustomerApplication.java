@@ -13,7 +13,6 @@ import org.springframework.context.annotation.PropertySources;
                 "com.brianthomas.amqp",
         }
 )
-
 @EnableEurekaClient
 @EnableFeignClients(
         basePackages = "com.brianthomas.clients"

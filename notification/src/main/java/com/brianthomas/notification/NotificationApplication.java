@@ -9,9 +9,9 @@ import org.springframework.context.annotation.PropertySource;
 import org.springframework.context.annotation.PropertySources;
 
 @SpringBootApplication(
-        scanBasePackages =  {
-            "com.brianthomas.notification",
-            "com.brianthomas.amqp"
+        scanBasePackages = {
+                "com.brianthomas.notification",
+                "com.brianthomas.amqp",
         }
 )
 @PropertySources({
@@ -21,7 +21,6 @@ public class NotificationApplication {
     public static void main(String[] args) {
         SpringApplication.run(NotificationApplication.class, args);
     }
-
 //    @Bean
 //    CommandLineRunner commandLineRunner(
 //            RabbitMQMessageProducer producer,
