@@ -1,8 +1,0 @@
-com\brianthomas\customer\Customer$CustomerBuilder.class
-com\brianthomas\customer\CustomerConfig.class
-com\brianthomas\customer\CustomerRepository.class
-com\brianthomas\customer\Customer.class
-com\brianthomas\customer\CustomerRegistrationRequest.class
-com\brianthomas\customer\CustomerController.class
-com\brianthomas\customer\CustomerService.class
-com\brianthomas\customer\CustomerApplication.class

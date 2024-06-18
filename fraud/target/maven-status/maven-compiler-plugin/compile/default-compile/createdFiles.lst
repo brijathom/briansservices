@@ -1,6 +1,0 @@
-com\brianthomas\fraud\FraudApplication.class
-com\brianthomas\fraud\FraudCheckHistoryRepository.class
-com\brianthomas\fraud\FraudCheckHistory.class
-com\brianthomas\fraud\FraudCheckService.class
-com\brianthomas\fraud\FraudCheckHistory$FraudCheckHistoryBuilder.class
-com\brianthomas\fraud\FraudController.class
