@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: fraud
-          image: amigoscode/fraud:latest
+          image: brijathom/fraud:latest
           imagePullPolicy: Always
           ports:
             - containerPort: 8081

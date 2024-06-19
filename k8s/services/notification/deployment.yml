@@ -15,6 +15,7 @@ spec:
       containers:
         - name: notification
           image: brijathom/notification:latest
+#          image: amigoscode/notification:latest
           imagePullPolicy: Always
           ports:
             # Should this be 8082 as per the comment on the Git commit

@@ -15,6 +15,7 @@ spec:
       containers:
         - name: customer
           image: brijathom/customer:latest
+#          image: amigoscode/customer:latest
           imagePullPolicy: Always
           ports:
             - containerPort: 8080
